@@ -3,11 +3,11 @@
  * Write a description of class WriteIFs here.
  *
  * @author (your name)
- * @version (a version number or a date)
+ * @version (a version number or a date)˚
  */
 public class WriteIFs
 {
- 
+    public String ss;
     public void playerDied(boolean player1) {
         // Write an IF statement that checks “player1.isAlive()” 
         // and if that’s false, calls “displayGameOver(player1)”
