@@ -7,7 +7,12 @@
  */
 public class WriteIFs
 {
+    public int x;
+    public int tt_t;
+    public int tt_s;
     public String ss;
+    public int oo1;
+    public in oo2;
     public void playerDied(boolean player1) {
         // Write an IF statement that checks “player1.isAlive()” 
         // and if that’s false, calls “displayGameOver(player1)”
